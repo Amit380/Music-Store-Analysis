@@ -1,3 +1,5 @@
+![Music Store Analysis](https://github.com/Amit380/Music-Store-Analysis/blob/main/Music%20Store%20Analysis%20.jpg)
+
 # Music Store Analysis
 
 ### ✤ Project Description:
